@@ -4,7 +4,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   Portfolio using GitHub pages
 baseurl: "/agalib91827" 
 url: "/portfolio" 
-twitter_username:
 github_username:  Blaze91827
 
 sass:
